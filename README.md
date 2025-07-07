@@ -1,5 +1,4 @@
-# Script
-Click [here](https://github.com/retarded-person/PascalCase/tree/main) for the main script loader...
+
 
 # PascalCase (DDev)
 <i>Free and open-source script for [Deepwoken Dev](https://www.roblox.com/games/10138901829/MANTRAS-Deepwoken-Dev)</i>
